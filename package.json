@@ -1,0 +1,24 @@
+{
+  "name": "UrlParts",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "gets you the scheme (http/ftp...) userinfo (user:pass) @ host (domain.com) : port (8080) path (/some/folder/or/file) ? query (asdf=asdf&b=b) # fragment (#anchor_tag)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonasfrey/UrlParts.git"
+  },
+  "keywords": [
+    "url",
+    "parts",
+    "domain",
+    "host",
+    "port",
+    "protocol"
+  ],
+  "author": "jonas frey",
+  "license": "ISC"
+}
